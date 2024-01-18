@@ -1,0 +1,21 @@
+/* Login.css */
+.login-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60%;
+}
+
+.login-container img {
+    max-width: 100%;
+    height: auto;
+    margin-right: 20px; /* Add some margin for spacing between image and form */
+}
+
+.bg-blue-600 {
+    /* Add any additional styling for the form container */
+}
+
+.form-control {
+    /* Add any styling for the form inputs */
+}
